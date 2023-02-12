@@ -1,0 +1,6 @@
+This website use api called openweathermap api.
+It's a weather forecast api which is avalable on https://openweathermap.org/api.
+
+
+
+this website created by ankit kumar.
