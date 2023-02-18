@@ -1,14 +1,4 @@
-<!-- 
-hum is video mai janenge ki kese hum weather carreper bana sakte hai 
-hum is video mai weater forrecate webiste ko islye cun rahe hai kyuki ismai humko jo bhihum chate hai wo url mai aa jata hai
 
-
-hum ismai bas summary ko extract karna bhi sikhne wale ahi ye muskil hone wala hai 
-
-ab weather forecast.com ka url change ho chuka ahi toh ab humko ye website jo banana sikha raha ahi uske website se data lina hoga
-website name====>
-http://completewebdevelopercourse.com/locations/London
--->
 <?php
 $weather = "";
 $error = "";
